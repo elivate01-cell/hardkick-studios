@@ -1,0 +1,23 @@
+{
+  "name": "Hardkick Studios",
+  "slug": "hardkick-studios",
+  "concept": "Creative video production house",
+  "category": "portfolio-creative",
+  "subcategory": "production-house",
+  "description": "Neon-poster production house site: frame-slate project cards, service rate rows, crew credits and a brief intake form styled like a call sheet.",
+  "design_family": "neon-poster",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "frame-slate project cards",
+    "service rate rows",
+    "crew credits roll",
+    "call-sheet brief form",
+    "showreel placeholder frames",
+    "dark set-stripes motif"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
